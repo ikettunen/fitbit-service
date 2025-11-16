@@ -40708,3 +40708,96 @@
 2025-11-16T17:50:14: [ioredis] Unhandled error event: AggregateError [ECONNREFUSED]: 
 2025-11-16T17:50:14:     at internalConnectMultiple (node:net:1134:18)
 2025-11-16T17:50:14:     at afterConnectMultiple (node:net:1715:7)
+2025-11-16T17:50:16: [ioredis] Unhandled error event: AggregateError [ECONNREFUSED]: 
+2025-11-16T17:50:16:     at internalConnectMultiple (node:net:1134:18)
+2025-11-16T17:50:16:     at afterConnectMultiple (node:net:1715:7)
+2025-11-16T17:50:18: [ioredis] Unhandled error event: AggregateError [ECONNREFUSED]: 
+2025-11-16T17:50:18:     at internalConnectMultiple (node:net:1134:18)
+2025-11-16T17:50:18:     at afterConnectMultiple (node:net:1715:7)
+2025-11-16T17:50:20: [ioredis] Unhandled error event: AggregateError [ECONNREFUSED]: 
+2025-11-16T17:50:20:     at internalConnectMultiple (node:net:1134:18)
+2025-11-16T17:50:20:     at afterConnectMultiple (node:net:1715:7)
+2025-11-16T17:50:22: [ioredis] Unhandled error event: AggregateError [ECONNREFUSED]: 
+2025-11-16T17:50:22:     at internalConnectMultiple (node:net:1134:18)
+2025-11-16T17:50:22:     at afterConnectMultiple (node:net:1715:7)
+2025-11-16T17:50:24: [ioredis] Unhandled error event: AggregateError [ECONNREFUSED]: 
+2025-11-16T17:50:24:     at internalConnectMultiple (node:net:1134:18)
+2025-11-16T17:50:24:     at afterConnectMultiple (node:net:1715:7)
+2025-11-16T17:50:26: [ioredis] Unhandled error event: AggregateError [ECONNREFUSED]: 
+2025-11-16T17:50:26:     at internalConnectMultiple (node:net:1134:18)
+2025-11-16T17:50:26:     at afterConnectMultiple (node:net:1715:7)
+2025-11-16T17:50:28: [ioredis] Unhandled error event: AggregateError [ECONNREFUSED]: 
+2025-11-16T17:50:28:     at internalConnectMultiple (node:net:1134:18)
+2025-11-16T17:50:28:     at afterConnectMultiple (node:net:1715:7)
+2025-11-16T17:50:30: [ioredis] Unhandled error event: AggregateError [ECONNREFUSED]: 
+2025-11-16T17:50:30:     at internalConnectMultiple (node:net:1134:18)
+2025-11-16T17:50:30:     at afterConnectMultiple (node:net:1715:7)
+2025-11-16T17:50:32: [ioredis] Unhandled error event: AggregateError [ECONNREFUSED]: 
+2025-11-16T17:50:32:     at internalConnectMultiple (node:net:1134:18)
+2025-11-16T17:50:32:     at afterConnectMultiple (node:net:1715:7)
+2025-11-16T17:50:34: [ioredis] Unhandled error event: AggregateError [ECONNREFUSED]: 
+2025-11-16T17:50:34:     at internalConnectMultiple (node:net:1134:18)
+2025-11-16T17:50:34:     at afterConnectMultiple (node:net:1715:7)
+2025-11-16T17:50:36: [ioredis] Unhandled error event: AggregateError [ECONNREFUSED]: 
+2025-11-16T17:50:36:     at internalConnectMultiple (node:net:1134:18)
+2025-11-16T17:50:36:     at afterConnectMultiple (node:net:1715:7)
+2025-11-16T17:50:38: [ioredis] Unhandled error event: AggregateError [ECONNREFUSED]: 
+2025-11-16T17:50:38:     at internalConnectMultiple (node:net:1134:18)
+2025-11-16T17:50:38:     at afterConnectMultiple (node:net:1715:7)
+2025-11-16T17:50:40: [ioredis] Unhandled error event: AggregateError [ECONNREFUSED]: 
+2025-11-16T17:50:40:     at internalConnectMultiple (node:net:1134:18)
+2025-11-16T17:50:40:     at afterConnectMultiple (node:net:1715:7)
+2025-11-16T17:50:42: [ioredis] Unhandled error event: AggregateError [ECONNREFUSED]: 
+2025-11-16T17:50:42:     at internalConnectMultiple (node:net:1134:18)
+2025-11-16T17:50:42:     at afterConnectMultiple (node:net:1715:7)
+2025-11-16T17:50:44: [ioredis] Unhandled error event: AggregateError [ECONNREFUSED]: 
+2025-11-16T17:50:44:     at internalConnectMultiple (node:net:1134:18)
+2025-11-16T17:50:44:     at afterConnectMultiple (node:net:1715:7)
+2025-11-16T17:50:46: [ioredis] Unhandled error event: AggregateError [ECONNREFUSED]: 
+2025-11-16T17:50:46:     at internalConnectMultiple (node:net:1134:18)
+2025-11-16T17:50:46:     at afterConnectMultiple (node:net:1715:7)
+2025-11-16T17:50:48: [ioredis] Unhandled error event: AggregateError [ECONNREFUSED]: 
+2025-11-16T17:50:48:     at internalConnectMultiple (node:net:1134:18)
+2025-11-16T17:50:48:     at afterConnectMultiple (node:net:1715:7)
+2025-11-16T17:50:50: [ioredis] Unhandled error event: AggregateError [ECONNREFUSED]: 
+2025-11-16T17:50:50:     at internalConnectMultiple (node:net:1134:18)
+2025-11-16T17:50:50:     at afterConnectMultiple (node:net:1715:7)
+2025-11-16T17:50:52: [ioredis] Unhandled error event: AggregateError [ECONNREFUSED]: 
+2025-11-16T17:50:52:     at internalConnectMultiple (node:net:1134:18)
+2025-11-16T17:50:52:     at afterConnectMultiple (node:net:1715:7)
+2025-11-16T17:50:54: [ioredis] Unhandled error event: AggregateError [ECONNREFUSED]: 
+2025-11-16T17:50:54:     at internalConnectMultiple (node:net:1134:18)
+2025-11-16T17:50:54:     at afterConnectMultiple (node:net:1715:7)
+2025-11-16T17:50:56: [ioredis] Unhandled error event: AggregateError [ECONNREFUSED]: 
+2025-11-16T17:50:56:     at internalConnectMultiple (node:net:1134:18)
+2025-11-16T17:50:56:     at afterConnectMultiple (node:net:1715:7)
+2025-11-16T17:50:58: [ioredis] Unhandled error event: AggregateError [ECONNREFUSED]: 
+2025-11-16T17:50:58:     at internalConnectMultiple (node:net:1134:18)
+2025-11-16T17:50:58:     at afterConnectMultiple (node:net:1715:7)
+2025-11-16T17:51:00: [ioredis] Unhandled error event: AggregateError [ECONNREFUSED]: 
+2025-11-16T17:51:00:     at internalConnectMultiple (node:net:1134:18)
+2025-11-16T17:51:00:     at afterConnectMultiple (node:net:1715:7)
+2025-11-16T17:51:02: [ioredis] Unhandled error event: AggregateError [ECONNREFUSED]: 
+2025-11-16T17:51:02:     at internalConnectMultiple (node:net:1134:18)
+2025-11-16T17:51:02:     at afterConnectMultiple (node:net:1715:7)
+2025-11-16T17:51:04: [ioredis] Unhandled error event: AggregateError [ECONNREFUSED]: 
+2025-11-16T17:51:04:     at internalConnectMultiple (node:net:1134:18)
+2025-11-16T17:51:04:     at afterConnectMultiple (node:net:1715:7)
+2025-11-16T17:51:06: [ioredis] Unhandled error event: AggregateError [ECONNREFUSED]: 
+2025-11-16T17:51:06:     at internalConnectMultiple (node:net:1134:18)
+2025-11-16T17:51:06:     at afterConnectMultiple (node:net:1715:7)
+2025-11-16T17:51:08: [ioredis] Unhandled error event: AggregateError [ECONNREFUSED]: 
+2025-11-16T17:51:08:     at internalConnectMultiple (node:net:1134:18)
+2025-11-16T17:51:08:     at afterConnectMultiple (node:net:1715:7)
+2025-11-16T17:51:10: [ioredis] Unhandled error event: AggregateError [ECONNREFUSED]: 
+2025-11-16T17:51:10:     at internalConnectMultiple (node:net:1134:18)
+2025-11-16T17:51:10:     at afterConnectMultiple (node:net:1715:7)
+2025-11-16T17:51:12: [ioredis] Unhandled error event: AggregateError [ECONNREFUSED]: 
+2025-11-16T17:51:12:     at internalConnectMultiple (node:net:1134:18)
+2025-11-16T17:51:12:     at afterConnectMultiple (node:net:1715:7)
+2025-11-16T17:51:14: [ioredis] Unhandled error event: AggregateError [ECONNREFUSED]: 
+2025-11-16T17:51:14:     at internalConnectMultiple (node:net:1134:18)
+2025-11-16T17:51:14:     at afterConnectMultiple (node:net:1715:7)
+2025-11-16T17:51:16: [ioredis] Unhandled error event: AggregateError [ECONNREFUSED]: 
+2025-11-16T17:51:16:     at internalConnectMultiple (node:net:1134:18)
+2025-11-16T17:51:16:     at afterConnectMultiple (node:net:1715:7)
