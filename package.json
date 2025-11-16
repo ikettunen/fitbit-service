@@ -9,6 +9,7 @@
     "test": "jest",
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage",
+    "test:report": "jest --coverage && node scripts/generate-report.js",
     "seed-demo": "node scripts/seed-demo-data.js"
   },
   "dependencies": {
@@ -25,7 +26,8 @@
   "devDependencies": {
     "jest": "^29.7.0",
     "supertest": "^6.3.3",
-    "nodemon": "^3.1.4"
+    "nodemon": "^3.1.4",
+    "jest-html-reporter": "^3.10.2"
   },
   "engines": {
     "node": ">=18.0.0"
